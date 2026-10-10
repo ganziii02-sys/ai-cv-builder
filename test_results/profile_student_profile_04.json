@@ -1,0 +1,100 @@
+{
+  "user_id": "student_profile_04",
+  "name": "Noah Ibrahim",
+  "contact_email": "noah@example.com",
+  "contact_other": {
+    "github": "https://github.com/example/student-profile-04",
+    "linkedin": "https://www.linkedin.com/in/example-student-04"
+  },
+  "education": "Bachelor of Computing Science University of Technology Sydney Third year",
+  "technical_skills": [
+    "Python",
+    "Linux",
+    "SQL",
+    "network troubleshooting",
+    "Git",
+    "REST API testing",
+    "Wireshark basics",
+    "Docker basics",
+    "technical documentation"
+  ],
+  "skill_evidence": [
+    {
+      "skill": "Python",
+      "source": "Reliable Course Service"
+    },
+    {
+      "skill": "Linux",
+      "source": "Network Monitoring Exercise"
+    },
+    {
+      "skill": "SQL",
+      "source": "Reliable Course Service"
+    },
+    {
+      "skill": "network troubleshooting",
+      "source": "Network Monitoring Exercise"
+    },
+    {
+      "skill": "Git",
+      "source": "Reliable Course Service"
+    },
+    {
+      "skill": "REST API testing",
+      "source": "Reliable Course Service"
+    },
+    {
+      "skill": "Wireshark basics",
+      "source": "Network Monitoring Exercise"
+    },
+    {
+      "skill": "Docker basics",
+      "source": "Reliable Course Service local container exercise"
+    },
+    {
+      "skill": "technical documentation",
+      "source": "Network Monitoring Exercise and IT support role"
+    }
+  ],
+  "experience": [
+    {
+      "role": "IT Support Assistant",
+      "organisation": "Fictional community organisation",
+      "type": "Part-time employment",
+      "description": "Recorded support requests, helped users with account and device issues and escalated problems that required administrator access."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Network Monitoring Exercise",
+      "context": "Network Fundamentals coursework",
+      "description": "Captured and inspected local network traffic in a controlled lab, documented common protocol fields and explained simple monitoring checks.",
+      "technologies": [
+        "Linux",
+        "Wireshark basics",
+        "networking",
+        "technical reporting"
+      ]
+    },
+    {
+      "title": "Reliable Course Service",
+      "context": "Team software project",
+      "description": "Added input validation, error logging and REST API tests to a small course information service. Ran the service in a local Docker container and worked with teammates to review changes before merging them.",
+      "technologies": [
+        "Python",
+        "Flask",
+        "SQLite",
+        "REST API testing",
+        "Docker basics",
+        "pytest",
+        "Git"
+      ]
+    }
+  ],
+  "achievements": [
+    "Participated in a fictional beginner cybersecurity capture-the-flag workshop; this activity is synthetic and is not a verified UTS record"
+  ],
+  "job_goal": "Cybersecurity Intern, Junior Systems Developer, QA Automation Intern",
+  "confirmed": true,
+  "raw_introduction": ""
+}

@@ -1,0 +1,63 @@
+{
+  "job_document_id": "agentic_ai_engineer",
+  "summary": "Casey Lee is a final-year Bachelor of Computing Science student at the University of Technology Sydney. They have academic experience using Python through university data-structures assignments and a library-catalogue project.",
+  "matched_skills": [
+    {
+      "skill": "Python",
+      "profile_evidence": "Library-catalogue project built using Python and University data-structures assignments implemented in Python.",
+      "job_line": "develop agentic workflows and autonomous components using Python, Langflow, and modern AI tooling"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "two or more years of Python development",
+      "job_line": "two or more years of Python development"
+    },
+    {
+      "requirement": "experience developing and deploying LLM orchestration, RAG, or AI-agent solutions",
+      "job_line": "experience developing and deploying LLM orchestration, RAG, or AI-agent solutions"
+    },
+    {
+      "requirement": "Langflow and modern AI tooling and orchestration frameworks",
+      "job_line": "modern AI tooling and orchestration frameworks; cloud infrastructure;"
+    },
+    {
+      "requirement": "cloud infrastructure",
+      "job_line": "cloud infrastructure"
+    },
+    {
+      "requirement": "Terraform or Kubernetes",
+      "job_line": "Terraform or Kubernetes"
+    },
+    {
+      "requirement": "Docker",
+      "job_line": "Docker"
+    },
+    {
+      "requirement": "professional experience delivering end-to-end AI solutions and managing full lifecycle",
+      "job_line": "Deliver end-to-end AI solutions; develop agentic workflows... manage the full lifecycle from requirements and stakeholder engagement through to testing and deployment"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Education",
+      "items": [
+        "Bachelor of Computing Science, University of Technology Sydney (final year)"
+      ]
+    },
+    {
+      "heading": "Technical Skills",
+      "items": [
+        "Python"
+      ]
+    },
+    {
+      "heading": "Projects",
+      "items": [
+        "Library Catalogue: Library-catalogue project built using Python.",
+        "Data Structures Assignments: University data-structures assignments implemented in Python."
+      ]
+    }
+  ],
+  "dropped_claims": []
+}

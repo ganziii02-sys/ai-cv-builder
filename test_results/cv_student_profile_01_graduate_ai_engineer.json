@@ -1,0 +1,81 @@
+{
+  "job_document_id": "graduate_ai_engineer",
+  "summary": "Maya Chen is a third-year Bachelor of Computing Science student at the University of Technology Sydney with practical experience in Python, REST APIs, SQL, and Git. She has built a university group web API project and an AI coursework prototype involving tool calling and prompt design. Her background includes coursework in computer science and experience working in a team environment.",
+  "matched_skills": [
+    {
+      "skill": "Python",
+      "profile_evidence": "Team Course Planner and AI Coursework Prototype",
+      "job_line": "write clean, maintainable Python; and contribute to shared codebases."
+    },
+    {
+      "skill": "Degree in computer science",
+      "profile_evidence": "Bachelor of Computing Science University of Technology Sydney Third year",
+      "job_line": "A degree in artificial intelligence, data science, computer science, information technology, or a related science or engineering discipline"
+    },
+    {
+      "skill": "Software development practice",
+      "profile_evidence": "Team Course Planner using Git, pytest, and REST APIs",
+      "job_line": "and software-development practice."
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Machine-learning fundamentals, statistics, data analysis",
+      "job_line": "knowledge of machine-learning fundamentals, statistics, data analysis, agentic AI, LLMs, RAG, and domain-specific fine-tuning"
+    },
+    {
+      "requirement": "NumPy, Pandas, scikit-learn, and PyTorch",
+      "job_line": "Python with NumPy, Pandas, scikit-learn, and PyTorch"
+    },
+    {
+      "requirement": "Data visualisation",
+      "job_line": "data visualisation"
+    },
+    {
+      "requirement": "Experience with structured or unstructured data",
+      "job_line": "experience with structured or unstructured data"
+    },
+    {
+      "requirement": "LLMs, RAG, and domain-specific fine-tuning",
+      "job_line": "knowledge of machine-learning fundamentals, statistics, data analysis, agentic AI, LLMs, RAG, and domain-specific fine-tuning"
+    },
+    {
+      "requirement": "Up to two years of professional experience",
+      "job_line": "up to two years of professional experience"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Education",
+      "items": [
+        "Bachelor of Computing Science, University of Technology Sydney (Third year)"
+      ]
+    },
+    {
+      "heading": "Technical Skills",
+      "items": [
+        "Python, Java, SQL, REST APIs, Git, GitHub, pytest, Jupyter Notebook"
+      ]
+    },
+    {
+      "heading": "Projects",
+      "items": [
+        "Team Course Planner (University group project): Built a small web API that stores course information and helps students check timetable clashes. Contributed to the Python service layer, SQL queries, REST endpoint design, input validation and unit tests using Python, Flask, SQLite, REST APIs, pytest, and Git.",
+        "AI Coursework Prototype (43007 Advanced Artificial Intelligence coursework): Created a small tool-call agent prototype that selects local course tools and records each tool result before producing a response using Python, prompt design, tool calling, JSON, and Jupyter Notebook."
+      ]
+    },
+    {
+      "heading": "Experience",
+      "items": [
+        "Customer Service Assistant, Fictional retail store (Casual employment): Handled customer questions, worked with a small team during busy periods and followed written procedures."
+      ]
+    },
+    {
+      "heading": "Achievements",
+      "items": [
+        "Presented the Team Course Planner in a group demonstration"
+      ]
+    }
+  ],
+  "dropped_claims": []
+}

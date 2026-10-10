@@ -1,0 +1,29 @@
+# Copy to config.yaml and fill in real values. config.yaml is git-ignored.
+# Do NOT commit API keys.
+
+llm:
+  provider: google              # Google Gemini (google-genai SDK)
+  model: gemini-flash-lite-latest    # -lite: fast, own free-tier quota | gemini-flash-latest | gemini-pro-latest
+  max_tokens: 4000
+  thinking_budget: 0            # 0 = thinking off (faster). null = model default. Ignored by *-lite models.
+  # API key is read from the GOOGLE_API_KEY environment variable,
+  # or from `api_key` below (placeholder only in the example file).
+  api_key: "YOUR_GOOGLE_API_KEY"
+
+embeddings:
+  backend: local               # local sentence-transformers model, runs offline (no key)
+  local:
+    model: sentence-transformers/all-MiniLM-L6-v2
+
+retrieval:
+  top_k: 3
+  index_cache: outputs/job_index.npz
+
+agent:
+  max_steps: 8
+
+paths:
+  jobs: data/jobs.jsonl
+  profiles: data/student_profiles.jsonl
+  introductions: data/student_introductions.jsonl
+  outputs: outputs

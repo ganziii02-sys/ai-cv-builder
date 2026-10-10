@@ -1,0 +1,13 @@
+# Local config with secrets
+config.yaml
+.env
+
+# Runtime outputs
+outputs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/

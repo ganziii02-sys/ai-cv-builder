@@ -1,0 +1,13 @@
+# AI-Powered CV Builder — dependencies
+# Verified on Python 3.14.7.
+
+google-genai>=2.20         # LLM: agent + CV generation (Google Gemini)
+PyYAML>=6.0                # config file
+numpy>=2.0                # cosine similarity, embedding cache
+fpdf2>=2.8                # polished PDF export
+
+# --- Embeddings (local, offline; pulls torch, ~1GB) ---
+sentence-transformers>=6.0
+
+# --- Tests ---
+pytest>=8

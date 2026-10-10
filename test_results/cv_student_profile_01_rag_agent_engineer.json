@@ -1,0 +1,70 @@
+{
+  "job_document_id": "rag_agent_engineer",
+  "summary": "Maya Chen is a third-year Bachelor of Computing Science student at the University of Technology Sydney with experience in Python programming and AI coursework projects. She has built prototypes including a tool-call agent prototype and a Team Course Planner web API.",
+  "matched_skills": [
+    {
+      "skill": "Python",
+      "profile_evidence": "Team Course Planner and AI Coursework Prototype",
+      "job_line": "strong Python programming."
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "A master's degree or above in computer science, artificial intelligence, data systems, or a related field",
+      "job_line": "A master's degree or above in computer science, artificial intelligence, data systems, or a related field;"
+    },
+    {
+      "requirement": "Three or more years of research or engineering experience",
+      "job_line": "three or more years of research or engineering experience;"
+    },
+    {
+      "requirement": "Experience with LLMs, RAG, AI agents, or intelligent data systems",
+      "job_line": "experience with LLMs, RAG, AI agents, or intelligent data systems;"
+    },
+    {
+      "requirement": "LangChain, LangGraph, LlamaIndex, vector databases, graph databases, and cloud AI platforms",
+      "job_line": "Preferred experience includes LangChain, LangGraph, LlamaIndex, vector databases, graph databases, and cloud AI platforms."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Education",
+      "items": [
+        "Bachelor of Computing Science University of Technology Sydney Third year"
+      ]
+    },
+    {
+      "heading": "Technical Skills",
+      "items": [
+        "Python",
+        "Java",
+        "SQL",
+        "REST APIs",
+        "Git",
+        "GitHub",
+        "pytest",
+        "Jupyter Notebook"
+      ]
+    },
+    {
+      "heading": "Projects",
+      "items": [
+        "Team Course Planner (University group project): Built a small web API that stores course information and helps students check timetable clashes. Contributed to the Python service layer, SQL queries, REST endpoint design, input validation and unit tests.",
+        "AI Coursework Prototype (43007 Advanced Artificial Intelligence coursework): Created a small tool-call agent prototype that selects local course tools and records each tool result before producing a response."
+      ]
+    },
+    {
+      "heading": "Experience",
+      "items": [
+        "Customer Service Assistant at Fictional retail store (Casual employment): Handled customer questions, worked with a small team during busy periods and followed written procedures."
+      ]
+    },
+    {
+      "heading": "Achievements",
+      "items": [
+        "Presented the Team Course Planner in a group demonstration"
+      ]
+    }
+  ],
+  "dropped_claims": []
+}

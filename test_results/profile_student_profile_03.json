@@ -1,0 +1,101 @@
+{
+  "user_id": "student_profile_03",
+  "name": "Sofia Williams",
+  "contact_email": "sofia@example.com",
+  "contact_other": {
+    "github": "https://github.com/example/student-profile-03",
+    "linkedin": "https://www.linkedin.com/in/example-student-03"
+  },
+  "education": "Bachelor of Computing Science University of Technology Sydney Third year",
+  "technical_skills": [
+    "Python",
+    "SQL",
+    "pandas",
+    "Excel",
+    "Power BI basics",
+    "Matplotlib",
+    "data cleaning",
+    "Git",
+    "data storytelling"
+  ],
+  "skill_evidence": [
+    {
+      "skill": "Python",
+      "source": "Student Services Dashboard"
+    },
+    {
+      "skill": "SQL",
+      "source": "Student Services Dashboard"
+    },
+    {
+      "skill": "pandas",
+      "source": "Student Services Dashboard"
+    },
+    {
+      "skill": "Excel",
+      "source": "Student Services Dashboard"
+    },
+    {
+      "skill": "Power BI basics",
+      "source": "Student Services Dashboard"
+    },
+    {
+      "skill": "Matplotlib",
+      "source": "Search Result Analysis"
+    },
+    {
+      "skill": "data cleaning",
+      "source": "Student Services Dashboard"
+    },
+    {
+      "skill": "Git",
+      "source": "Coursework project repository"
+    },
+    {
+      "skill": "data storytelling",
+      "source": "Dashboard presentation"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Peer Learning Volunteer",
+      "organisation": "Fictional university study program",
+      "type": "Volunteer experience",
+      "description": "Helped first-year students organise programming exercises and explain basic debugging steps."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Student Services Dashboard",
+      "context": "University analytics project",
+      "description": "Cleaned survey data, designed summary measures and built an interactive dashboard to compare student-service usage across study groups. Used Excel and Power BI basics, then explained the limitations of missing responses in the final presentation.",
+      "technologies": [
+        "Python",
+        "pandas",
+        "SQL",
+        "Excel",
+        "Power BI basics",
+        "data cleaning",
+        "data storytelling"
+      ]
+    },
+    {
+      "title": "Search Result Analysis",
+      "context": "43007 Advanced Artificial Intelligence coursework",
+      "description": "Compared retrieved job descriptions for several student goals, used simple plots to inspect the results and summarised which terms caused the search results to change.",
+      "technologies": [
+        "Python",
+        "Matplotlib",
+        "text embeddings",
+        "similarity search",
+        "evaluation"
+      ]
+    }
+  ],
+  "achievements": [
+    "Presented a dashboard project at a fictional student showcase; this activity is synthetic and is not a verified UTS record"
+  ],
+  "job_goal": "Data Analyst Intern, Business Intelligence Intern, Junior Data Specialist",
+  "confirmed": true,
+  "raw_introduction": ""
+}

@@ -1,0 +1,99 @@
+{
+  "job_document_id": "agentic_ai_data_scientist",
+  "summary": "Maya Chen is a third-year Bachelor of Computing Science student at the University of Technology Sydney with practical experience in Python, SQL, and Git. She has built projects involving REST APIs, pytest, and a tool-call agent prototype using prompt design and tool calling.",
+  "matched_skills": [
+    {
+      "skill": "Python",
+      "profile_evidence": "Team Course Planner and AI Coursework Prototype",
+      "job_line": "Strong Python development"
+    },
+    {
+      "skill": "tool or function calling",
+      "profile_evidence": "AI Coursework Prototype",
+      "job_line": "tool or function calling"
+    },
+    {
+      "skill": "prompt engineering",
+      "profile_evidence": "AI Coursework Prototype (prompt design)",
+      "job_line": "prompt engineering"
+    },
+    {
+      "skill": "SQL",
+      "profile_evidence": "Team Course Planner",
+      "job_line": "SQL"
+    },
+    {
+      "skill": "Git",
+      "profile_evidence": "Team Course Planner",
+      "job_line": "Git"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "modern LLM frameworks and SDKs",
+      "job_line": "modern LLM frameworks and SDKs"
+    },
+    {
+      "requirement": "agentic patterns",
+      "job_line": "agentic patterns"
+    },
+    {
+      "requirement": "structured outputs",
+      "job_line": "structured outputs"
+    },
+    {
+      "requirement": "RAG evaluation",
+      "job_line": "RAG evaluation"
+    },
+    {
+      "requirement": "vector databases",
+      "job_line": "vector databases"
+    },
+    {
+      "requirement": "scientific evaluation",
+      "job_line": "scientific evaluation"
+    },
+    {
+      "requirement": "communication",
+      "job_line": "communication"
+    },
+    {
+      "requirement": "experience with cloud, Docker, data pipelines, and related production systems",
+      "job_line": "experience with cloud, Docker, data pipelines, and related production systems."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Education",
+      "items": [
+        "Bachelor of Computing Science, University of Technology Sydney, Third year"
+      ]
+    },
+    {
+      "heading": "Technical Skills",
+      "items": [
+        "Python, Java, SQL, REST APIs, Git, GitHub, pytest, Jupyter Notebook"
+      ]
+    },
+    {
+      "heading": "Projects",
+      "items": [
+        "Team Course Planner: Built a small web API that stores course information and helps students check timetable clashes using Python, Flask, SQLite, REST APIs, pytest, and Git.",
+        "AI Coursework Prototype: Created a small tool-call agent prototype that selects local course tools and records each tool result before producing a response using Python, prompt design, tool calling, JSON, and Jupyter Notebook."
+      ]
+    },
+    {
+      "heading": "Experience",
+      "items": [
+        "Customer Service Assistant, Fictional retail store (Casual employment): Handled customer questions, worked with a small team during busy periods and followed written procedures."
+      ]
+    },
+    {
+      "heading": "Achievements",
+      "items": [
+        "Presented the Team Course Planner in a group demonstration"
+      ]
+    }
+  ],
+  "dropped_claims": []
+}

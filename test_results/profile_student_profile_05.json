@@ -1,0 +1,98 @@
+{
+  "user_id": "student_profile_05",
+  "name": "Ethan Nguyen",
+  "contact_email": "ethan@example.com",
+  "contact_other": {
+    "github": "https://github.com/example/student-profile-05",
+    "linkedin": "https://www.linkedin.com/in/example-student-05"
+  },
+  "education": "Bachelor of Computing Science – Industry Degree Academy (IDeA) University of Technology Sydney Third year",
+  "technical_skills": [
+    "Java",
+    "Python",
+    "SQL",
+    "REST APIs",
+    "Git",
+    "Docker basics",
+    "CI basics",
+    "unit testing",
+    "Jira-style task tracking"
+  ],
+  "skill_evidence": [
+    {
+      "skill": "Java",
+      "source": "Team Service Platform"
+    },
+    {
+      "skill": "Python",
+      "source": "43007 Tool-Call Agent Prototype"
+    },
+    {
+      "skill": "SQL",
+      "source": "Team Service Platform"
+    },
+    {
+      "skill": "REST APIs",
+      "source": "Team Service Platform and cadetship"
+    },
+    {
+      "skill": "Git",
+      "source": "Team Service Platform and cadetship"
+    },
+    {
+      "skill": "Docker basics",
+      "source": "Cadetship local development workflow"
+    },
+    {
+      "skill": "CI basics",
+      "source": "Cadetship test pipeline"
+    },
+    {
+      "skill": "unit testing",
+      "source": "Team Service Platform and cadetship"
+    },
+    {
+      "skill": "Jira-style task tracking",
+      "source": "Cadetship sprint work"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Development Cadet",
+      "organisation": "Fictional technology company",
+      "type": "UTS IDeA cadetship; synthetic employer",
+      "description": "Fixed small backend issues, added automated tests, updated API documentation, used a basic CI test pipeline and joined sprint planning with a software team. The role represents early workplace experience, not senior engineering responsibility."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Team Service Platform",
+      "context": "University studio project",
+      "description": "Worked in a small team on a service platform. Implemented Java backend endpoints, wrote unit tests and helped prepare a short demonstration for non-technical stakeholders.",
+      "technologies": [
+        "Java",
+        "REST APIs",
+        "PostgreSQL",
+        "JUnit",
+        "Git"
+      ]
+    },
+    {
+      "title": "Tool-Call Agent Prototype",
+      "context": "43007 Advanced Artificial Intelligence coursework",
+      "description": "Connected a language model to local course tools and logged the model's actions and tool observations in a bounded loop.",
+      "technologies": [
+        "Python",
+        "structured tool calls",
+        "prompt design",
+        "JSON"
+      ]
+    }
+  ],
+  "achievements": [
+    "Helped organise a fictional student software showcase; this activity is synthetic and is not a verified UTS record"
+  ],
+  "job_goal": "Graduate Software Engineer, Backend Developer, Cloud Software Intern",
+  "confirmed": true,
+  "raw_introduction": ""
+}

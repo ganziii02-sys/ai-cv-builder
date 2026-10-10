@@ -1,0 +1,64 @@
+{
+  "job_document_id": "graduate_ai_engineer",
+  "summary": "Casey Lee is a final-year Bachelor of Computing Science student at the University of Technology Sydney. They have practical programming experience in Python demonstrated through university data-structures assignments and a library-catalogue project.",
+  "matched_skills": [
+    {
+      "skill": "Python",
+      "profile_evidence": "Python Used in library-catalogue project and university data-structures assignments.",
+      "job_line": "write clean, maintainable Python; and contribute to shared codebases."
+    },
+    {
+      "skill": "Computer Science Degree",
+      "profile_evidence": "Bachelor of Computing Science, University of Technology Sydney (final year)",
+      "job_line": "A degree in artificial intelligence, data science, computer science, information technology, or a related science or engineering discipline"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Machine-learning fundamentals, statistics, data analysis, agentic AI, LLMs, RAG, and domain-specific fine-tuning",
+      "job_line": "knowledge of machine-learning fundamentals, statistics, data analysis, agentic AI, LLMs, RAG, and domain-specific fine-tuning"
+    },
+    {
+      "requirement": "Python libraries NumPy, Pandas, scikit-learn, and PyTorch",
+      "job_line": "Python with NumPy, Pandas, scikit-learn, and PyTorch"
+    },
+    {
+      "requirement": "Data visualisation",
+      "job_line": "data visualisation"
+    },
+    {
+      "requirement": "Experience with structured or unstructured data",
+      "job_line": "experience with structured or unstructured data"
+    },
+    {
+      "requirement": "Software-development practice",
+      "job_line": "and software-development practice."
+    },
+    {
+      "requirement": "Up to two years of professional experience",
+      "job_line": "up to two years of professional experience"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Education",
+      "items": [
+        "Bachelor of Computing Science, University of Technology Sydney (final year)"
+      ]
+    },
+    {
+      "heading": "Projects",
+      "items": [
+        "Library Catalogue: Library-catalogue project built using Python.",
+        "Data Structures Assignments: University data-structures assignments implemented in Python."
+      ]
+    },
+    {
+      "heading": "Technical Skills",
+      "items": [
+        "Python"
+      ]
+    }
+  ],
+  "dropped_claims": []
+}

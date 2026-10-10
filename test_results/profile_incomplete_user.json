@@ -1,0 +1,26 @@
+{
+  "user_id": "incomplete_user",
+  "name": "Casey Lee",
+  "contact_email": "casey.lee@example.com",
+  "contact_other": {},
+  "education": "Bachelor of Computing Science, University of Technology Sydney (final year)",
+  "technical_skills": [
+    "Python"
+  ],
+  "skill_evidence": [],
+  "experience": [],
+  "projects": [
+    {
+      "description": "Library-catalogue project built using Python.",
+      "title": "Library Catalogue"
+    },
+    {
+      "title": "Data Structures Assignments",
+      "description": "University data-structures assignments implemented in Python."
+    }
+  ],
+  "achievements": [],
+  "job_goal": "tech",
+  "confirmed": false,
+  "raw_introduction": "I'm a final-year student and I've done some Python and a group project. I want a job in tech."
+}

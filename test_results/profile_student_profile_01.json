@@ -1,0 +1,95 @@
+{
+  "user_id": "student_profile_01",
+  "name": "Maya Chen",
+  "contact_email": "maya@example.com",
+  "contact_other": {
+    "github": "https://github.com/example/student-profile-01",
+    "linkedin": "https://www.linkedin.com/in/example-student-01"
+  },
+  "education": "Bachelor of Computing Science University of Technology Sydney Third year",
+  "technical_skills": [
+    "Python",
+    "Java",
+    "SQL",
+    "REST APIs",
+    "Git",
+    "GitHub",
+    "pytest",
+    "Jupyter Notebook"
+  ],
+  "skill_evidence": [
+    {
+      "skill": "Python",
+      "source": "Team Course Planner"
+    },
+    {
+      "skill": "SQL",
+      "source": "Team Course Planner"
+    },
+    {
+      "skill": "REST APIs",
+      "source": "Team Course Planner"
+    },
+    {
+      "skill": "pytest",
+      "source": "Team Course Planner"
+    },
+    {
+      "skill": "Git",
+      "source": "Team Course Planner"
+    },
+    {
+      "skill": "Java",
+      "source": "Programming 2 coursework"
+    },
+    {
+      "skill": "GitHub",
+      "source": "Coursework project repository"
+    },
+    {
+      "skill": "Jupyter Notebook",
+      "source": "43007 coursework"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Customer Service Assistant",
+      "organisation": "Fictional retail store",
+      "type": "Casual employment",
+      "description": "Handled customer questions, worked with a small team during busy periods and followed written procedures."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Team Course Planner",
+      "context": "University group project",
+      "description": "Built a small web API that stores course information and helps students check timetable clashes. Contributed to the Python service layer, SQL queries, REST endpoint design, input validation and unit tests.",
+      "technologies": [
+        "Python",
+        "Flask",
+        "SQLite",
+        "REST APIs",
+        "pytest",
+        "Git"
+      ]
+    },
+    {
+      "title": "AI Coursework Prototype",
+      "context": "43007 Advanced Artificial Intelligence coursework",
+      "description": "Created a small tool-call agent prototype that selects local course tools and records each tool result before producing a response.",
+      "technologies": [
+        "Python",
+        "prompt design",
+        "tool calling",
+        "JSON",
+        "Jupyter Notebook"
+      ]
+    }
+  ],
+  "achievements": [
+    "Presented the Team Course Planner in a group demonstration"
+  ],
+  "job_goal": "Software Engineering Intern, Graduate Software Developer, Junior Backend Developer",
+  "confirmed": true,
+  "raw_introduction": ""
+}

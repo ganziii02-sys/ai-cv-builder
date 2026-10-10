@@ -1,0 +1,79 @@
+{
+  "job_document_id": "agentic_ai_engineer",
+  "summary": "Maya Chen is a third-year Bachelor of Computing Science student at the University of Technology Sydney with experience in Python development, REST APIs, and building AI prototypes. She has academic project experience creating a tool-call agent prototype and a web API using Python, SQL, and Git.",
+  "matched_skills": [
+    {
+      "skill": "Python",
+      "profile_evidence": "Team Course Planner and AI Coursework Prototype",
+      "job_line": "two or more years of Python development"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Two or more years of Python development",
+      "job_line": "two or more years of Python development"
+    },
+    {
+      "requirement": "Langflow",
+      "job_line": "develop agentic workflows and autonomous components using Python, Langflow, and modern AI tooling"
+    },
+    {
+      "requirement": "LLM orchestration, RAG, or AI-agent solutions experience",
+      "job_line": "experience developing and deploying LLM orchestration, RAG, or AI-agent solutions"
+    },
+    {
+      "requirement": "Modern AI tooling and orchestration frameworks",
+      "job_line": "modern AI tooling and orchestration frameworks"
+    },
+    {
+      "requirement": "Cloud infrastructure",
+      "job_line": "cloud infrastructure"
+    },
+    {
+      "requirement": "Terraform or Kubernetes",
+      "job_line": "Terraform or Kubernetes"
+    },
+    {
+      "requirement": "Docker",
+      "job_line": "Docker"
+    },
+    {
+      "requirement": "Stakeholder engagement",
+      "job_line": "manage the full lifecycle from requirements and stakeholder engagement through to testing and deployment"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Education",
+      "items": [
+        "Bachelor of Computing Science, University of Technology Sydney (Third year)"
+      ]
+    },
+    {
+      "heading": "Technical Skills",
+      "items": [
+        "Python, Java, SQL, REST APIs, Git, GitHub, pytest, Jupyter Notebook"
+      ]
+    },
+    {
+      "heading": "Projects",
+      "items": [
+        "Team Course Planner: Built a small web API that stores course information and helps students check timetable clashes. Contributed to the Python service layer, SQL queries, REST endpoint design, input validation and unit tests.",
+        "AI Coursework Prototype: Created a small tool-call agent prototype that selects local course tools and records each tool result before producing a response using Python, prompt design, tool calling, JSON, and Jupyter Notebook."
+      ]
+    },
+    {
+      "heading": "Experience",
+      "items": [
+        "Customer Service Assistant, Fictional retail store (Casual employment): Handled customer questions, worked with a small team during busy periods and followed written procedures."
+      ]
+    },
+    {
+      "heading": "Achievements",
+      "items": [
+        "Presented the Team Course Planner in a group demonstration"
+      ]
+    }
+  ],
+  "dropped_claims": []
+}
